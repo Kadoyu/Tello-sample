@@ -29,7 +29,7 @@ cap = cv2.VideoCapture(0)
 ```
 
 **tello_wifi_access.py**  
-Tello EDU用に子機として使用できるようにするプログラム  
+Tello EDU限定ですが、子機として使用できるようにするプログラム  
 一度実行すると次に実行する必要ないです。　
 ```python
 # SSID、PASSWORDにWiFi名とパスワードを入れる。
